@@ -1,0 +1,41 @@
+.headCenter{
+    text-align: center;
+}
+
+.tableauBG{
+    background-image: url(../images/cityscapebg.jpg);
+    background-size: cover;
+}
+
+.righttext{
+    text-align: right;
+}
+
+.footertext{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+.tableaupadding{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
+
+.tableauanswers{
+    font-size: larger;
+    padding-bottom: 100px;
+}
+
+.bottompadding{
+    padding-bottom: 30px;
+}
+
+a:visited{
+    color:blueviolet;
+}
+
+a:hover{
+    color:blue;
+}
